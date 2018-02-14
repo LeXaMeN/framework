@@ -1,0 +1,9 @@
+input[type=range]::-webkit-slider-thumb
+{
+	background: #4caf50;
+	background-color: #4caf50;
+}
+input[type=range]::-moz-range-thumb {background: #4caf50;}
+input[type=range]::-ms-thumb {background: #4caf50;}
+input[type=range] + .thumb {background: #4caf50;}
+input[type=range] + .thumb .value {color: #4caf50;}
